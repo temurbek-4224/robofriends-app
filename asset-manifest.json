@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/temurbek-4224/robofriends-app/static/css/main.5dd05d0c.chunk.css",
+    "main.js": "/temurbek-4224/robofriends-app/static/js/main.d33b1c51.chunk.js",
+    "main.js.map": "/temurbek-4224/robofriends-app/static/js/main.d33b1c51.chunk.js.map",
+    "runtime-main.js": "/temurbek-4224/robofriends-app/static/js/runtime-main.a9973453.js",
+    "runtime-main.js.map": "/temurbek-4224/robofriends-app/static/js/runtime-main.a9973453.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/temurbek-4224/robofriends-app/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.b4c0c571.chunk.js": "/temurbek-4224/robofriends-app/static/js/2.b4c0c571.chunk.js",
+    "static/js/2.b4c0c571.chunk.js.map": "/temurbek-4224/robofriends-app/static/js/2.b4c0c571.chunk.js.map",
+    "static/js/3.4ca0b47f.chunk.js": "/temurbek-4224/robofriends-app/static/js/3.4ca0b47f.chunk.js",
+    "static/js/3.4ca0b47f.chunk.js.map": "/temurbek-4224/robofriends-app/static/js/3.4ca0b47f.chunk.js.map",
+    "index.html": "/temurbek-4224/robofriends-app/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/temurbek-4224/robofriends-app/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.5dd05d0c.chunk.css.map": "/temurbek-4224/robofriends-app/static/css/main.5dd05d0c.chunk.css.map",
+    "static/js/2.b4c0c571.chunk.js.LICENSE.txt": "/temurbek-4224/robofriends-app/static/js/2.b4c0c571.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9973453.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.b4c0c571.chunk.js",
+    "static/css/main.5dd05d0c.chunk.css",
+    "static/js/main.d33b1c51.chunk.js"
+  ]
+}
